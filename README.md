@@ -29,9 +29,9 @@ Junior Data Analyst with strong skills in Python, SQL and Excel, focused on tran
 * 🛒 **[Urban Mobility and Economic Productivity in LATAM Cities | Triple Ten 2026](https://github.com/FithoGerardo/Urban-Mobility-in-LATAM-Cities/tree/main)**
 To identify which cities to invest in transportation infrastructure in order to improve productivity and population well-being.
 
-## Alejo's Portfolio
+## Alejo Castro's Portfolio
 
-* 💼 **[Alejo's Portfolio]()**
+* 💼 **[Alejo Castro's Portfolio]()**
 
 
 
