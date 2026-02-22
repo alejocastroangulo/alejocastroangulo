@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alejo</h1>
+<h1 align="center">Hi 👋, I'm Alejo</h1> 
 
 <p align="right">
   <img 
@@ -9,7 +9,9 @@
   />
 </p>
 
-<img width="1536" height="1024" alt="banner github" src="https://github.com/user-attachments/assets/15ba253a-7952-4c45-9968-3cb247a08ff7" />
+<img width="1536" height="499" alt="ChatGPT Image 21 feb 2026, 10_47_45 p m  - copia" src="https://github.com/user-attachments/assets/8e440516-812f-4502-a45f-6b0aa41cf280" />
+
+
 
 
 <h3 align="center">I am a data analyst in development, from México to the world</h3>
