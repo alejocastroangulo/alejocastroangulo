@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'm Alejo</h1>
 
+<p align="right">
+  <img 
+    src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-13-522_512.gif" 
+    width="77" 
+    height="77" 
+    alt="banner github" 
+  />
+</p>
+
 <img width="1536" height="1024" alt="banner github" src="https://github.com/user-attachments/assets/15ba253a-7952-4c45-9968-3cb247a08ff7" />
 
 
