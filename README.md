@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alejo</h1> 
 
+<img width="1536" height="614" alt="ChatGPT Image 21 feb 2026, 10_59_38 p m" src="https://github.com/user-attachments/assets/cabe87f1-e264-48b2-af48-9705934e7e30" />
+
 <p align="right">
   <img 
     src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-13-522_512.gif" 
@@ -8,10 +10,6 @@
     alt="banner github" 
   />
 </p>
-
-<img width="1536" height="499" alt="ChatGPT Image 21 feb 2026, 10_47_45 p m  - copia" src="https://github.com/user-attachments/assets/8e440516-812f-4502-a45f-6b0aa41cf280" />
-
-
 
 
 <h3 align="center">I am a data analyst in development, from México to the world</h3>
